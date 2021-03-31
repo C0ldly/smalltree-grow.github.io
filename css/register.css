@@ -1,0 +1,149 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 84px;
+    border-bottom: 2px solid #b1191a;
+}
+
+.header .logo {
+    line-height: 84px;
+}
+
+.box {
+    height: 520px;
+    border: 1px solid #dfdfdf;
+    margin-top: 21px;
+}
+
+.box_hd {
+    height: 41px;
+    border-bottom: 1px solid #dfdfdf;
+    background-color: #ececec;
+}
+
+.box_hd h4 {
+    float: left;
+    font-size: 18px;
+    line-height: 41px;
+    margin-left: 11px;
+    font-weight: 400;
+}
+
+.box_hd div {
+    float: right;
+    line-height: 41px;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.box_hd div a {
+    color: red;
+}
+
+.box_bd {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 54px;
+}
+
+.box_bd ul li {
+    margin-bottom: 20px;
+}
+
+.box_bd ul li label {
+    display: inline-block;
+    width: 87px;
+    text-align: right;
+    font-size: 14px;
+}
+
+.box_bd ul li .inp {
+    width: 240px;
+    height: 36px;
+    border: 1px solid #999999;
+}
+
+.box_bd ul li .erron {
+    color: #df3033;
+    font-size: 12px;
+    margin-left: 12px;
+}
+
+.erron_icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(../images/icon.png) no-repeat;
+    vertical-align: middle;
+}
+
+.succes {
+    color: green;
+    margin-left: 12px;
+}
+
+.safe {
+    padding-left: 166px;
+}
+
+.safe em {
+    padding: 0 11px;
+    color: #fff;
+}
+
+.safe .an {
+    color: #b2b2b2;
+    font-size: 12px;
+}
+
+.ruo {
+    background-color: #de1111;
+}
+
+.zhong {
+    background-color: #40b83f;
+}
+
+.qiang {
+    background-color: #f79100;
+}
+
+.agree {
+    margin: 42px 0 0 84px;
+}
+
+.agree input {
+    font-size: 12px;
+    vertical-align: middle;
+}
+
+.agree a {
+    font-size: 12px;
+    color: #74bded;
+}
+
+.btn {
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    font-size: 14px;
+    color: #fff;
+    margin: 30px 0 0 90px;
+}
+
+.link {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.link a {
+    padding: 0 16px;
+}
+
+.copy {
+    text-align: center;
+    margin-top: 16px;
+}
